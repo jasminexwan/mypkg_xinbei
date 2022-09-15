@@ -28,7 +28,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(mypkgr)
-## basic example code
+mylog(c(exp(1), exp(2)))
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
