@@ -4,6 +4,8 @@
 # mypkgr
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/jasminexwan/mypkg_xinbei/workflows/R-CMD-check/badge.svg)](https://github.com/jasminexwan/mypkg_xinbei/actions)
 <!-- badges: end -->
 
 The goal of mypkgr is to create functions and get familiar with `git`
