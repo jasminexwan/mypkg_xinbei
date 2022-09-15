@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of mypkgr is to create functions and get familiar with `git`
-and `github`. There are two functions in this package:
+and `github`. There are a few functions in this package:
 
 1)  my_log()
 2)  mylog_slow()
